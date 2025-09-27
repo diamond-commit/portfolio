@@ -4,7 +4,7 @@ Welcome to the codebase for my personal portfolio website!
 This site showcases my projects, skills, and developer journey as I build my path toward becoming a top backend engineer.
 
  ## Live Website
-   [Diamond-portfolio.xyz](https://Diamond-portfolio.xyz)
+   [Diamond-portfolio.xyz](https://diamond-portfolio.xyz)
 
 🛠 Built With
 	•	HTML5 & CSS3 – Clean, responsive layout
@@ -12,5 +12,5 @@ This site showcases my projects, skills, and developer journey as I build my pat
 	•	Git & GitHub – Version control & deployment
 
  ## Connect with Me
-	•	X : [dcodeX](https://x.com/yingyang0100?s=21)
+	•	X : [dcodeX](https://diamond-portfolio.xyz)
 	•	✉ Email: fawasdiamond2007@gmail.com
